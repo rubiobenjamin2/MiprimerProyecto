@@ -4,8 +4,8 @@
 
 <div class="contenedor-barra">
 
-<!-- primer proyecto de git -->
-<h1>  Agenda de Contactos </h1> primer proyecto
+<!-- primer proyecto de git  -->
+<h1>  Agenda de Contactos </h1> 
 
 </div>
 
